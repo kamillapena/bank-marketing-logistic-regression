@@ -26,4 +26,4 @@ This project aims to predict whether a client will subscribe to a term deposit b
 The model provides a clear probability score for each customer, allowing a bank to focus its marketing efforts on the leads most likely to convert.
 
 ---
-*Developed as a practical application of supervised learning in the finance industry.*
+*Developed as part of a Machine Learning module during my college studies.*
